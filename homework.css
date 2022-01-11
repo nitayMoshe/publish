@@ -1,0 +1,300 @@
+#biggest{
+
+    margin-left: 20vw;
+     border: 1px solid black; 
+     height: 92vh;
+      width: 60vw;
+}
+
+#top{
+
+    width: 60vw;
+    background-color: rgba(226, 88, 34, 0.9);
+     height: 15vh;
+     box-shadow: 1px 2px 3px;
+}
+
+#com1{
+
+    width: 12vw;
+     height: 60vh; 
+     margin-top: 5vh;
+      margin-left: 2vw; 
+      border: 1px solid black;
+       border-radius: 8px;
+        box-shadow:3px 3px 3px gray; 
+        display: flex;
+}
+#com2{
+
+    width: 12vw;
+     height: 60vh;
+      margin-top: -60vh;
+       margin-left: 46vw; 
+       border: 1px solid black;
+        border-radius: 8px;
+         box-shadow:3px 3px 3px gray;
+         display: inline-block;
+}
+
+#main{
+
+    width: 30vw; 
+    height: 60vh; 
+    margin-left: 15vw; 
+    margin-top: -60vh;
+     border-radius: 8px; 
+     background-image: url(https://api.time.com/wp-content/uploads/2014/05/mockingjay-part-1-teaser-poster-1.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+#top_in{
+
+    width: 25vw; 
+    margin-left: 3vw; 
+    margin-top: 2vh; 
+    height: 5vh;
+     border-radius: 8px;
+}
+
+#man1{
+
+width: 5vw;
+height: 15vh;
+background-color: rgba(255, 255,255, 0.7);
+margin-left: 2vw;
+margin-top: 8vh;
+display:list-item;
+list-style-type: none;
+}
+
+#man2{
+
+    width: 5vw;
+    height: 15vh;
+    background-color: rgba(255, 255,255, 0.7);
+    margin-left: 9vw;
+    margin-top: -15vh;
+    display: list-item;
+    list-style-type: none;
+    }
+    
+#man3{
+
+        width: 5vw;
+        height: 15vh;
+        background-color: rgba(255, 255,255, 0.7);
+        margin-left: 16vw;
+        margin-top: -15vh;
+        display: list-item;
+        list-style-type: none;
+        }
+
+ 
+ #man4{
+
+            width: 5vw;
+            height: 15vh;
+            background-color: rgba(255, 255,255, 0.7);
+            margin-left: 23vw;
+            margin-top: -15vh;
+            display: list-item;
+            list-style-type: none;
+            }
+
+
+#bottom_in{
+
+    width: 24vw; 
+    margin-left: 3vw; 
+    margin-top: 12vh; 
+    height: 12vh;
+     border-radius: 3px;  
+     background-color: rgba(255, 255,255, 0.7);
+}
+
+#links{
+display: inline-block;
+    margin-top: 6vh;
+    
+}
+
+
+#a1{
+font-size: larger;
+text-decoration: none;
+color: black;
+margin-left: 2vw;
+}
+
+#a2{
+    font-size: larger;
+    text-decoration: none;
+    color: black;
+    margin-left: 2vw;
+    }
+
+    #a3{
+        font-size: larger;
+        text-decoration: none;
+        color: black;
+        margin-left: 2vw;
+        }
+
+
+#search{
+
+    margin-left: 30vw;
+    height:3vh ;
+}
+
+#icon{
+background-color: white;
+height: 2vh;
+margin-left: -1.5vw ;
+margin-bottom: 0.5vh;
+}
+
+#inman1{
+background-color: rgba(255,255,255,0.7);
+border-radius: 30px;
+height: 8.5vh;
+width: 4vw;
+margin-left: 0.5vw;
+margin-top: 0.5vh;
+display: inline-block;
+background-image: url(https://static.wikia.nocookie.net/thehungergames/images/d/da/KatnissD13Portrait.jpg/revision/latest/top-crop/width/360/height/450?cb=20190306042858);
+background-repeat: no-repeat;
+background-size: cover;
+}
+#text1{
+
+    margin-left: 0.6vw;
+    margin-top: 2vh;
+    font-size: larger;
+    display:inline-table;
+}
+#inman2{
+    background-color: rgba(255,255,255,0.7);
+    border-radius: 30px;
+    height: 8.5vh;
+    width: 4vw;
+    margin-left: 0.5vw;
+    margin-top: 0.5vh;
+    display: inline-block;
+    background-image: url(https://static.wikia.nocookie.net/thehungergames/images/d/d6/GaleD13Portrait.jpg/revision/latest/top-crop/width/360/height/450?cb=20190306042858);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    #text2{
+
+        margin-left: 1.2vw;
+        margin-top: 2vh;
+        font-size: larger;
+        display:inline-table;
+    }
+    #inman3{
+        background-color: rgba(255,255,255,0.7);
+        border-radius: 30px;
+        height: 8.5vh;
+        width: 4vw;
+        margin-left: 0.5vw;
+        margin-top: 0.5vh;
+        display: inline-block;
+        background-image: url(data:image/jpeg;base64,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);
+        background-repeat: no-repeat;
+        background-size: cover;
+        }
+        #text3{
+
+            margin-left: 1.2vw;
+            margin-top: 2vh;
+            font-size: larger;
+            display:inline-table;
+        }
+        #inman4{
+            background-color: rgba(255,255,255,0.7);
+            border-radius: 30px;
+            height: 8.5vh;
+            width: 4vw;
+            margin-left: 0.5vw;
+            margin-top: 0.5vh;
+            display: inline-block;
+             background-image: url(https://static.wikia.nocookie.net/34th-hunger-games/images/0/02/Unknown-1531954541.jpeg/revision/latest/top-crop/width/360/height/450?cb=20180718225541);
+        background-repeat: no-repeat;
+        background-size: cover;
+            }
+            #text4{
+
+                margin-left: 0ץ5vw;
+                margin-top: 2vh;
+                font-size: larger;
+                display:inline-table;
+            }            
+#t1{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+display: inline-table;
+}
+#t2{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+display: inline-table;
+}
+#t3{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+
+display: inline-table;
+}
+#t4{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+display: inline-table;
+}
+#t5{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+display: inline-table;
+}
+#t6{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+display:inline-table;
+}
+
+#t7{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+display:inline-table;
+}
+#t8{
+
+    width: 3vw;
+    height: 4vh;
+    font-size:x-small;
+margin-left: 2vw;
+display:inline-table;
+}
